@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\wsr2\bin\Debug\wsr2.exe.config
+C:\Users\admin\source\repos\wsr2\bin\Debug\wsr2.exe
+C:\Users\admin\source\repos\wsr2\bin\Debug\wsr2.pdb
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.Form1.resources
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.Form2.resources
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.Properties.Resources.resources
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.exe
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.pdb
+C:\Users\admin\source\repos\wsr2\obj\Debug\wsr2.Form3.resources
